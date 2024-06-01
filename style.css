@@ -1,0 +1,161 @@
+*{
+    margin: 0%;
+padding: 0%;
+}
+.nav{
+display: flex;
+position: fixed;
+background-color: white;
+width: 100%;
+z-index: 1;
+
+
+}
+
+.nav1{
+    padding: 10px;
+}
+.nav2{
+    display: flex;
+      margin-left:830px;
+  
+    }
+
+h3{
+    padding: 10px;
+    font-weight: 100;
+    padding-bottom: 2px;
+}
+
+ .nav1 p{
+    padding: 10px;
+    font-weight: 100;
+    font-size: 20px;
+
+
+}
+
+
+.nav1 p:hover{
+    background-color: gray;
+    cursor: pointer;
+}
+
+.nav2 h3:hover{
+    background-color: gray;
+    cursor: pointer;
+
+}
+
+.img1 h1{
+    position: absolute;
+bottom: 30px;
+left: 20px;
+font-size: 50px;
+font-weight: 100;
+color: gray;
+}
+.img1{
+    position: relative;
+}
+
+.section2{
+    display:flex ;
+    
+}
+
+
+.sec{
+   
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.sec2 h1{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.sec2 h4{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 200;
+ 
+}
+.sec2 h1{
+    font-weight: 100;
+    font-size: 50px;
+
+}
+
+
+.sec2 p{
+    text-align: initial;
+    margin-left: 50px;
+        margin-right: 40px;
+        font-size: 20px;
+        margin-top: 20px;
+}
+
+
+.section3{
+    margin-top: 200px;
+           display: flex;
+           justify-content: space-evenly;
+}
+.section3 h1{
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: 100;
+}
+.section3 h3{
+    margin-top:50px;
+    letter-spacing: 5px;
+}
+
+.section3 p{
+    margin-top: 15px;
+    margin-left: 10px;
+    color: grey;
+} 
+
+.section4 h1{
+    margin-top: 200px;
+
+}
+ .section4{
+   
+    margin-left: 80px;
+ }
+  .section4 p{
+    margin-top: 50px;
+    font-size: 15px;
+  }
+
+  .section4 h3{
+    color: darkslategrey;
+  }
+  .section4 h4{
+    margin-top: 20px;
+    font-weight: 100;
+  }
+
+  input{
+    height: 50px;
+    width: 1100px;
+border: none;
+border-bottom:1px solid gray ;
+
+  }
+  .dd h5{
+    font-weight: 100;
+    font-size: 15px;
+    margin-top: 25px;
+    background-color:lightgray;
+    margin-right: 1050px;
+    padding: 10px;
+  }
+  .dd h5:hover{
+    background-color: grey;
+  }
